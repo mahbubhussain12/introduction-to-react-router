@@ -12,3 +12,8 @@ nav a{
     border-radius: 10px;
     
 }
+nav a.active{
+    text-decoration: underline;
+   background-color: wheat;
+    color: rgb(61, 10, 229);
+}
