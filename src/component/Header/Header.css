@@ -1,0 +1,14 @@
+nav a{
+    margin-right: 20px;
+    background-color: black;
+    padding: 5px;
+    border-radius: 5px;
+    color: white;
+}
+.title{
+    /* margin-bottom: 5px; */
+    background-color: bisque;
+    padding: 5px;
+    border-radius: 10px;
+    
+}
